@@ -1,0 +1,15 @@
+connect TELLO-CFB9D6
+video live record
+takeoff
+right n
+ccw 90
+wait 5
+right n
+ccw 90
+wait 5
+right n
+ccw 90
+wait 5
+right n
+land
+

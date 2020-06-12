@@ -1,0 +1,9 @@
+connect TELLO-CFB9D6
+video live record
+takeoff
+forward 100
+cw 180
+wait 10
+forward 100
+#land
+
